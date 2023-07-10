@@ -11,7 +11,7 @@ In my part-time job as a Student Associate for Student Affairs Office at <a href
 ## Acknowledgement
 
 I would like to thank:
-- Halvor Haukvik, who created <a href="https://github.com/hdhauk/flickrdump">flickrdump</a> and Suhun Han, who created <a href="https://github.com/ssut/flickr-dump">flickr-dump</a>. This project is largely inspired by their projects, particularly in understanding how Flickr Service APIs works and concurrency in Golang. I could have used their projects, but there are some additional functionalities that I need (like "DownloadByAlbum" where users can download only certain albums instead of all albums).
+- Halvor Haukvik, who created <a href="https://github.com/hdhauk/flickrdump">flickrdump</a> and Suhun Han, who created <a href="https://github.com/ssut/flickr-dump">flickr-dump</a>. This project is largely inspired by their projects, particularly in understanding how Flickr Service APIs works and concurrency in Golang. While I could have used their projects, there are some additional functionalities that I need (like "DownloadByAlbum" where users can download only certain albums).
 - Ultralystics, who created <a href=https://github.com/ultralytics/flickr_scraper/tree/master> Flickr Scraper</a>. This project helps me in understanding how the flickrapi package works. 
 
 
